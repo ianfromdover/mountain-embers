@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/A_Scenes/Grass.unity
+- path: Assets/A_Scenes/Assignment Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

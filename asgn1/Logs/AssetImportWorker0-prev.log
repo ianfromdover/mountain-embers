@@ -12,171 +12,108 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62881
+63693
 Successfully changed project path to: /Users/base/Desktop/y2s2/cs4240/labs/asgn1
 /Users/base/Desktop/y2s2/cs4240/labs/asgn1
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 40.76 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 59.87 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path /Users/base/Desktop/y2s2/cs4240/labs/asgn1/Assets
 GfxDevice: creating device client; threaded=0
-2022-01-18 18:15:40.874 Unity[9246:3471659] Color LCD preferred device: Intel HD Graphics 4000 (low power)
-2022-01-18 18:15:40.874 Unity[9246:3471659] Metal devices available: 1
-2022-01-18 18:15:40.874 Unity[9246:3471659] 0: Intel HD Graphics 4000 (low power)
-2022-01-18 18:15:40.875 Unity[9246:3471659] Using device Intel HD Graphics 4000 (low power)
+2022-01-18 22:20:08.845 Unity[10352:3512086] Color LCD preferred device: Intel HD Graphics 4000 (low power)
+2022-01-18 22:20:08.845 Unity[10352:3512086] Metal devices available: 1
+2022-01-18 22:20:08.845 Unity[10352:3512086] 0: Intel HD Graphics 4000 (low power)
+2022-01-18 22:20:08.845 Unity[10352:3512086] Using device Intel HD Graphics 4000 (low power)
 Initializing Metal device caps: Intel HD Graphics 4000
 Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56246
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56352
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.000860 seconds.
+Registered in 0.001010 seconds.
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 39.34 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 56.89 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.358 seconds
+- Completed reload, in  2.694 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000658 seconds.
+Registered in 0.000745 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 54.14 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.423 seconds
+- Completed reload, in  1.980 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launching external process: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/UnityShaderCompiler
 Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1107 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 107.3 MB.
-System memory in use after: 107.3 MB.
+Unloading 1834 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.5 MB.
+System memory in use after: 161.4 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1550.
-Total: 2.944627 ms (FindLiveObjects: 0.328303 ms CreateObjectMapping: 0.092939 ms MarkObjects: 2.413888 ms  DeleteObjects: 0.106460 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/E_Store/Standard Assets/Environment/SpeedTree/Palm/Thumb_Palm_Desktop.jpg
-  artifactKey: Guid(a6e42589b1029ec4d962f422f92e554a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/E_Store/Standard Assets/Environment/SpeedTree/Palm/Thumb_Palm_Desktop.jpg using Guid(a6e42589b1029ec4d962f422f92e554a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0762379e41f717a8b4b4e325123ed083') in 3.135661 seconds
-  Import took 3.138363 seconds .
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2303.
+Total: 3.140426 ms (FindLiveObjects: 0.397016 ms CreateObjectMapping: 0.154941 ms MarkObjects: 2.255372 ms  DeleteObjects: 0.328764 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.976112 seconds.
-  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets
-  artifactKey: Guid(f8d5097095fd443c7a13f1f4a868136c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets using Guid(f8d5097095fd443c7a13f1f4a868136c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7484a1fcee2fcc200a3c2b7e681276ff') in 0.001570 seconds
-  Import took 0.004387 seconds .
+  path: Assets/VRM
+  artifactKey: Guid(8047ecfc909c7f044bad5c7d10844e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRM using Guid(8047ecfc909c7f044bad5c7d10844e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d603deaf655547e82e7698394d50862') in 0.005861 seconds
+  Import took 0.010776 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.592807 seconds.
-  path: Assets/Samples
-  artifactKey: Guid(77bd93d17125e4f93862429b3ffa7dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Samples using Guid(77bd93d17125e4f93862429b3ffa7dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6ca340380422baccedac2c82fa658c8') in 0.001803 seconds
-  Import took 0.005745 seconds .
+  Time since last request: 4.131612 seconds.
+  path: Assets/VRMShaders
+  artifactKey: Guid(503ae90aee4d0224db69e4e74762223b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRMShaders using Guid(503ae90aee4d0224db69e4e74762223b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '298694eef2d54e73eed5c55e2a9cf212') in 0.006732 seconds
+  Import took 0.013655 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.955345 seconds.
-  path: Assets/E_Store/Terrain Assets/BrushTextures
-  artifactKey: Guid(acfbac3344b07ed4f84ebf0c8828a729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/E_Store/Terrain Assets/BrushTextures using Guid(acfbac3344b07ed4f84ebf0c8828a729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8db5a6f7a8c33d0bba797be8a59e2d34') in 0.006583 seconds
-  Import took 0.010876 seconds .
+  Time since last request: 28.228960 seconds.
+  path: Assets/A_Scenes/Lab 1.unity
+  artifactKey: Guid(d0f897b202e0d483fa00623b1b723a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A_Scenes/Lab 1.unity using Guid(d0f897b202e0d483fa00623b1b723a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bb272b2a7db066a18ac2a5782b0b5a6') in 0.022983 seconds
+  Import took 0.029173 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001031 seconds.
-  path: Assets/E_Store/Terrain Assets/BrushTextures
-  artifactKey: Guid(acfbac3344b07ed4f84ebf0c8828a729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/E_Store/Terrain Assets/BrushTextures using Guid(acfbac3344b07ed4f84ebf0c8828a729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8db5a6f7a8c33d0bba797be8a59e2d34') in 0.002468 seconds
-  Import took 0.006553 seconds .
+  Time since last request: 12.929742 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(eb7e1fbc05b49472d906e4ce3cd2b8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(eb7e1fbc05b49472d906e4ce3cd2b8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f36ab30ab5038ebec2f6d5fe816792a') in 0.398045 seconds
+  Import took 0.403621 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.038692 seconds.
-  path: Assets/E_Store
-  artifactKey: Guid(1587ca285ed404ab78dfb36758aca415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/E_Store using Guid(1587ca285ed404ab78dfb36758aca415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32baa707343523dc130eebe9ee85deb6') in 0.006428 seconds
-  Import took 0.010045 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001292 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 73.36 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.197 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1289 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 129.4 MB.
-System memory in use after: 126.3 MB.
-
-Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 1715.
-Total: 6.684710 ms (FindLiveObjects: 0.391366 ms CreateObjectMapping: 0.101311 ms MarkObjects: 3.108492 ms  DeleteObjects: 3.079644 ms)
+  Time since last request: 4.442302 seconds.
+  path: Assets/A_Scenes/Grass.unity
+  artifactKey: Guid(b172fef9506a148359b3cd598136ed81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/A_Scenes/Grass.unity using Guid(b172fef9506a148359b3cd598136ed81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03d62573d0452b832e330adf69ba1c89') in 0.007034 seconds
+  Import took 0.012592 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 265.351803 seconds.
-  path: Assets/E_Store/Terrain Assets/TerrainBrushes/terrainstamp_mountain04.brush
-  artifactKey: Guid(84399f7e9c8b199478532ded97f1ed9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/E_Store/Terrain Assets/TerrainBrushes/terrainstamp_mountain04.brush using Guid(84399f7e9c8b199478532ded97f1ed9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eec78af9204d7001990b2cc97f1ff71') in 0.475771 seconds
-  Import took 0.479344 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.800785 seconds.
-  path: Assets/E_Store/Terrain Assets/TerrainBrushes/terrainstamp_ridge02.brush
-  artifactKey: Guid(5203e2a4f3ccc3548bde5beb3ca4bdc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/E_Store/Terrain Assets/TerrainBrushes/terrainstamp_ridge02.brush using Guid(5203e2a4f3ccc3548bde5beb3ca4bdc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '966be85e4da4f4e200442cb1ca2ad82f') in 0.020196 seconds
-  Import took 0.023858 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 47.548054 seconds.
-  path: Assets/E_Store/Terrain Assets/TerrainTextures/moss_albedo.tif
-  artifactKey: Guid(43b54d39e0a4c4d47bef645abec127f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/E_Store/Terrain Assets/TerrainTextures/moss_albedo.tif using Guid(43b54d39e0a4c4d47bef645abec127f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'deeafe07ec6f96f9a9d7cd069fc6fef5') in 0.855506 seconds
-  Import took 0.859148 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.339500 seconds.
-  path: Assets/E_Store/Terrain Assets/TerrainTextures/sand_albedo.tif
-  artifactKey: Guid(6bcc65b7c6e3a0b448d7801bfc56842f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/E_Store/Terrain Assets/TerrainTextures/sand_albedo.tif using Guid(6bcc65b7c6e3a0b448d7801bfc56842f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd33e941f2e116b488fbe1e4b065679a7') in 0.018519 seconds
-  Import took 0.022698 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001285 seconds.
-  path: Assets/E_Store/Terrain Assets/TerrainTextures/sand_albedo.tif
-  artifactKey: Guid(6bcc65b7c6e3a0b448d7801bfc56842f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/E_Store/Terrain Assets/TerrainTextures/sand_albedo.tif using Guid(6bcc65b7c6e3a0b448d7801bfc56842f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd33e941f2e116b488fbe1e4b065679a7') in 0.017294 seconds
-  Import took 0.021758 seconds .
+  Time since last request: 30.620152 seconds.
+  path: Assets/TesterTerrain.asset
+  artifactKey: Guid(eb7e1fbc05b49472d906e4ce3cd2b8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TesterTerrain.asset using Guid(eb7e1fbc05b49472d906e4ce3cd2b8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95526090b8f907b62560dfe54bc4087d') in 0.028091 seconds
+  Import took 0.033320 seconds .
 
