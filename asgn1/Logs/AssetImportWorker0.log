@@ -1,0 +1,221 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/base/Desktop/y2s2/cs4240/labs/asgn1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49349
+Successfully changed project path to: /Users/base/Desktop/y2s2/cs4240/labs/asgn1
+/Users/base/Desktop/y2s2/cs4240/labs/asgn1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 75.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/base/Desktop/y2s2/cs4240/labs/asgn1/Assets
+GfxDevice: creating device client; threaded=0
+2022-01-19 17:28:49.382 Unity[12303:3596553] Color LCD preferred device: Intel HD Graphics 4000 (low power)
+2022-01-19 17:28:49.382 Unity[12303:3596553] Metal devices available: 1
+2022-01-19 17:28:49.382 Unity[12303:3596553] 0: Intel HD Graphics 4000 (low power)
+2022-01-19 17:28:49.383 Unity[12303:3596553] Using device Intel HD Graphics 4000 (low power)
+Initializing Metal device caps: Intel HD Graphics 4000
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56303
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000793 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 66.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.415 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000848 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 72.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.465 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1835 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 174.8 MB.
+System memory in use after: 174.7 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2315.
+Total: 5.116337 ms (FindLiveObjects: 0.843181 ms CreateObjectMapping: 0.294549 ms MarkObjects: 3.542468 ms  DeleteObjects: 0.431350 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/E_Store/Fire
+  artifactKey: Guid(8620a9ddfec2143f98460e9a09e17f3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/E_Store/Fire using Guid(8620a9ddfec2143f98460e9a09e17f3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58aed21bf7db8c8006bd439197114943') in 0.007407 seconds
+  Import took 0.014081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/E_Store/Grass And Flowers Pack 1/Bush
+  artifactKey: Guid(00b48183b17b24add847c982cd373f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/E_Store/Grass And Flowers Pack 1/Bush using Guid(00b48183b17b24add847c982cd373f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '076ffb97cc10ce3cc242e52397427fb6') in 0.001755 seconds
+  Import took 0.006433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/E_Store/Grass And Flowers Pack 1
+  artifactKey: Guid(51f213b321cae48fd8d940656572e36a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/E_Store/Grass And Flowers Pack 1 using Guid(51f213b321cae48fd8d940656572e36a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f621b388c5201eacbc3e9c6ca8eb4493') in 0.001413 seconds
+  Import took 0.005831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/E_Store/Grass And Flowers Pack 1/Example Scene
+  artifactKey: Guid(148215fae73464090bbe722cfa2f7150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/E_Store/Grass And Flowers Pack 1/Example Scene using Guid(148215fae73464090bbe722cfa2f7150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c2b17a6aaa2e27747a603a6f2d53994') in 0.001287 seconds
+  Import took 0.005562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069165 seconds.
+  path: Assets/E_Store/Standard Assets/Environment/Water/Water/Materials/WaterProDaytime.mat
+  artifactKey: Guid(7350b65a6431f604a8496c39db1ac9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/E_Store/Standard Assets/Environment/Water/Water/Materials/WaterProDaytime.mat using Guid(7350b65a6431f604a8496c39db1ac9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40b5fa1b76b6236636f3e50f048856cb') in 0.705722 seconds
+  Import took 0.710341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/E_Store/Shed Bridge Tools and Fences/FreshModels/_Bridge/_Bridge Part/Materials/Wood Parts.mat
+  artifactKey: Guid(c3655d15929bc8a48803caf0f1d31a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/E_Store/Shed Bridge Tools and Fences/FreshModels/_Bridge/_Bridge Part/Materials/Wood Parts.mat using Guid(c3655d15929bc8a48803caf0f1d31a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca9d03a1724495b45966e5ee80de3dc1') in 0.039538 seconds
+  Import took 0.045853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/E_Store/Shed Bridge Tools and Fences/FreshModels/_Bridge/_Bridge first part/Materials/Wood Parts.mat
+  artifactKey: Guid(b856b93a90de20243a1abafd7f62154d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/E_Store/Shed Bridge Tools and Fences/FreshModels/_Bridge/_Bridge first part/Materials/Wood Parts.mat using Guid(b856b93a90de20243a1abafd7f62154d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da042a70f21e37d73380290f73cbb6a2') in 0.065393 seconds
+  Import took 0.072263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/E_Store/Shed Bridge Tools and Fences/FreshModels/_Bridge/_Last Bridge Part/Materials/Wood Parts.mat
+  artifactKey: Guid(3718d69b9cc35454aaeb1ba80d710b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/E_Store/Shed Bridge Tools and Fences/FreshModels/_Bridge/_Last Bridge Part/Materials/Wood Parts.mat using Guid(3718d69b9cc35454aaeb1ba80d710b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b53eead17ca7fa5b7352e6b287823f6') in 0.026070 seconds
+  Import took 0.032467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000615 seconds.
+  path: Assets/E_Store/Shed Bridge Tools and Fences/FreshModels/Wood Parts/Materials/Wood Parts.mat
+  artifactKey: Guid(3a11984daddfd2342a51a5b79bcb0fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/E_Store/Shed Bridge Tools and Fences/FreshModels/Wood Parts/Materials/Wood Parts.mat using Guid(3a11984daddfd2342a51a5b79bcb0fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2349a51126f8ad8b4934660e8c4c4df3') in 0.021683 seconds
+  Import took 0.027663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/E_Store/Shed Bridge Tools and Fences/FreshModels/Wood Parts/Materials/WoodPart1Mat.mat
+  artifactKey: Guid(4ae57ca3660de93468a1ffad3e7b1ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/E_Store/Shed Bridge Tools and Fences/FreshModels/Wood Parts/Materials/WoodPart1Mat.mat using Guid(4ae57ca3660de93468a1ffad3e7b1ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77fd1f21c522386bdca243c441bb27d8') in 0.025812 seconds
+  Import took 0.032533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.819737 seconds.
+  path: Assets/E_Store/Fire/FireT1ParticlesGlow.mat
+  artifactKey: Guid(376940e9cd8424a3cb4f87fb104dcf4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/E_Store/Fire/FireT1ParticlesGlow.mat using Guid(376940e9cd8424a3cb4f87fb104dcf4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd772f082ba4df5d8725e8ad4162e2e76') in 0.105381 seconds
+  Import took 0.111098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 912.152994 seconds.
+  path: Assets/E_Store/Fire/FlameAdditive.mat
+  artifactKey: Guid(d50306bade4b143dbaef099503b7cc31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/E_Store/Fire/FlameAdditive.mat using Guid(d50306bade4b143dbaef099503b7cc31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3044d3a47d9de00a5e43c9562d1bdb60') in 0.023874 seconds
+  Import took 0.030255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 480.454665 seconds.
+  path: Assets/E_Store/Fire/FlameAlpha.mat
+  artifactKey: Guid(a875d09f5bcbd4050a57dc9d9e54c1b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/E_Store/Fire/FlameAlpha.mat using Guid(a875d09f5bcbd4050a57dc9d9e54c1b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff5131189b1647442ddc662537b5f332') in 0.025783 seconds
+  Import took 0.030638 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000829 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.559 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1781 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 183.7 MB.
+System memory in use after: 183.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2359.
+Total: 3.072001 ms (FindLiveObjects: 0.494650 ms CreateObjectMapping: 0.087784 ms MarkObjects: 2.153510 ms  DeleteObjects: 0.332960 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000791 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.956 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1781 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 183.9 MB.
+System memory in use after: 183.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2361.
+Total: 2.800036 ms (FindLiveObjects: 0.334378 ms CreateObjectMapping: 0.081811 ms MarkObjects: 2.070864 ms  DeleteObjects: 0.309243 ms)
+
