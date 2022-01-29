@@ -4,23 +4,25 @@ using UnityEngine;
 
 public class CameraControl : MonoBehaviour
 {
-    public GameObject player;
-    private float yRotation;
+    // lab prescribed: follow the player with a fixed offset
+    // public GameObject player;
     // private Vector3 offset;
-    // Start is called before the first frame update
+    private float yRotation;
+
+    /*
     void Start()
     {
         // offset = transform.position - player.transform.position;
-        
     }
+    */
 
-    // Update is called once per frame
     void LateUpdate()
     {
         // transform.position = player.transform.position + offset;
+
+        // rotate view according to the mouse
         yRotation -= Input.GetAxis("Mouse Y");
-        yRotation = Mathf.Clamp(yRotation, -60, 60);
+        yRotation = Mathf.Clamp(yRotation, -60, 60); // max 60˚ up or down
         transform.localRotation = Quaternion.Euler(yRotation, 0, 0);
-        // transform.position = player.transform.position;
     }
 }

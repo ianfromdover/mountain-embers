@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Fire Stick
+  - Campfire
   layers:
   - Default
   - TransparentFX

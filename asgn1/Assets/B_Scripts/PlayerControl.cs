@@ -4,14 +4,19 @@ using UnityEngine;
 
 public class PlayerControl : MonoBehaviour
 {
-    public GameObject holdingTorch;
-    public GameObject campfire;
-    public float speed;
     private Rigidbody rb;
-    // Start is called before the first frame update
+    public float speed;
+
+    // experimental
+    public GameObject sphere;
+    private Vector3 offset;
+
     void Start()
     {
-        rb = GetComponent<Rigidbody>();
+        rb = sphere.GetComponent<Rigidbody>();
+        offset = transform.position - sphere.transform.position;
+
+        // Lock player's mouse to game
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
     }
@@ -31,18 +36,7 @@ public class PlayerControl : MonoBehaviour
         transform.Rotate(0, Input.GetAxis("Mouse X"), 0);
     }
 
-    void OnTriggerEnter(Collider other)
-    {
-        if (other.gameObject.CompareTag("Fire Stick"))
-        {
-            other.gameObject.SetActive(false);
-            holdingTorch.SetActive(true);
-        }
-        else if (other.gameObject.CompareTag("Campfire")) 
-        {
-            holdingTorch.SetActive(false);
-            // make campfire bigger
-            // UI noOfSticksLeft--;
-        }
+    void LateUpdate() {
+        transform.position = sphere.transform.position + offset;
     }
 }
