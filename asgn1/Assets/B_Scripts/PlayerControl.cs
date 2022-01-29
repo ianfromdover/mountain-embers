@@ -12,10 +12,12 @@ public class PlayerControl : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody>();
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
     }
 
-    // Update is called once per frame
-    void FixedUpdate()
+    // the camera doesn't work when it is fixedupdate for some reason
+    void Update()
     {
         float moveHorizontal = Input.GetAxis("Horizontal");
         float moveVertical = Input.GetAxis("Vertical");
@@ -25,6 +27,8 @@ public class PlayerControl : MonoBehaviour
 
         // friction
         rb.AddForce(new Vector3(moveHorizontal, -1.0f, moveVertical));
+        
+        transform.Rotate(0, Input.GetAxis("Mouse X"), 0);
     }
 
     void OnTriggerEnter(Collider other)
