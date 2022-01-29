@@ -1,5 +1,6 @@
 # Ian Hong's Assignment 1
-Collect small embers to light your campfire before it gets too dark.
+A0217685U  
+Collect small embers to light your campfire among cold, dark mountains.
 
 ## Unity Version
 
@@ -8,7 +9,7 @@ Collect small embers to light your campfire before it gets too dark.
 ## Packages Required
 - Cinemachine 2.6.11
 - Terrain Tools 3.0.2-preview.3 (Preview Package, installation instructions below)
-- !! Test Framework `1.1.19` (The newer version has errors that I don't know how to fix)
+- **Test Framework `1.1.19` (The newer version has errors that I don't know how to fix)**
 - TextMeshPro 3.0.6
 - Timeline 1.4.8
 - Unity Collaborate 1.3.9
@@ -18,12 +19,15 @@ Collect small embers to light your campfire before it gets too dark.
 ## Install the Terrain Tools Package
 1. Open an empty project.
 2. Open the Package Manager panel.
-3. Click on the settings icon(gear) at the top right corner near the window's searchbar.
+3. Click on the settings icon(gear) at the top right corner near the window's searchbar.  
+![Package Manager](./pictures/1.png)
 4. Select `Advanced Project Settings`, which opens a new window
-5. Tick the checkbox under `Package Manager section > Advanced Settings box > Enable Preview Packages`.
-6. Go back to the Package Manager panel, and in the top left, change the drop-down menu to `Packages: Unity Registry`. 
-7. Scroll down to find `Terrain Tools` and install, along with the other packages listed above.
-8. You can now open the assignment project.
+5. Tick the checkbox under `Package Manager section > Advanced Settings box > Enable Preview Packages`.  
+![Package Manager](./pictures/2.png)
+7. Go back to the Package Manager panel, and in the top left, change the drop-down menu to `Packages: Unity Registry`. 
+8. Scroll down to find `Terrain Tools` and install, along with the other packages listed above.  
+![Package Manager](./pictures/3.png)
+10. You can now open the assignment project.
 
 ## Playing Instructions
 1. Use `WASD` to move the character, and control the camera with the mouse. Press `Shift` to move faster. (to be implemented) You start at the center of the map, at the campfire.
