@@ -1,0 +1,80 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b93b1e7cef9d044e99a98edb5d9176f8
+# Starting compiling UnityEngine.UI.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-beff0dae32af544c19a7ad67531b8993
+# Starting compiling UnityEditor.TestRunner.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3259e296b6b584a3ebacecff245d7f7d
+# Starting compiling UnityEditor.UI.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c57c10d23cc7e4200819bcd21b270783
+# Starting compiling VRMShaders.GLTF.UniUnlit.Runtime.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3d4e3109cc5d1435697090b36aaa774b
+# Starting compiling Unity.VSCode.Editor.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7008d943ec513490e90e0a225584c49f
+# Starting compiling UniHumanoid.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-dad5979758a4b445faf45037d9ebf477
+# Starting compiling Unity.Timeline.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e3ba55bdf55054d7d9c621ab684a3036
+# Starting compiling VRMShaders.GLTF.IO.Runtime.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fc065c8e83b074d02a8c2d291a40e90e
+# Starting compiling Unity.TextMeshPro.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ab4517c5db11c49c995a4629d5178b50
+# Starting compiling MToon.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9456ffb500e8347629421564581d49ad
+# Starting compiling VRMShaders.GLTF.UniUnlit.Editor.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-cbc22903b1d7c400eba7a28bfd4100f6
+# Starting compiling UniGLTF.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d5f8f90448b4f47399469ba38297902c
+# Starting compiling VRMShaders.GLTF.IO.Editor.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9ee6ca421931c4455a85aa0dabb7b21d
+# Starting compiling MToon.Editor.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ef955c9784867403dbe2e47d0a4adb10
+# Starting compiling VRMShaders.VRM.IO.Runtime.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4ca6d4ab9b2004ef490c6e2d9ffa59fb
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1fd543cefbde94126b05a540bea10d94
+# Starting compiling VRMShaders.VRM10.Format.Runtime.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9f4a107c9fadb42f78ffab204de8bd54
+# Starting compiling UniGLTF.Samples.ScreenSpace.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6739d5388ce7f48c282aee110d851fbb
+# Starting compiling VRMShaders.VRM.IO.Editor.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-981584f49c21e4d1c954ad2371936fcf
+# Starting compiling FastSpringBone.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-cef5a21456fa34aaa919fee5297387d5
+# Starting compiling Unity.TerrainTools.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9314e4b73357d483c9811606be31cbde
+# Starting compiling Cinemachine.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f1917ae32ccbd4754a9c92b565b8e764
+# Starting compiling UniGLTF.Editor.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-882622d22bc42478eb02c594ebd43af3
+# Starting compiling VRM.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a525c8e49dae54b5f9f550ed283f43c9
+# Starting compiling Unity.TerrainTools.Editor.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-cbad730cf0a7a4f5691c9fa393bf2840
+# Starting compiling Unity.Timeline.Editor.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-698887d6e1183432a880bd1dd5e03230
+# Starting compiling UniGLTF.Tests.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1e6b6622665f94d14afe32be0560c078
+# Starting compiling UniHumanoid.Editor.Tests.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-51750f328d7d549178ec26c0c8c70a39
+# Starting compiling UniVRM.Editor.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1dfb0977d0f3049a98e788721a3888a5
+# Starting compiling Unity.CollabProxy.Editor.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f01c483a7a272409aa7630f64a469b02
+# Starting compiling UniHumanoid.Editor.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-64e397f4593844e7d82a45a9a480cdeb
+# Starting compiling VRM.Tests.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f2d328d88d96f41b08bbd242f6140e7d
+# Starting compiling VRMShaders.VRM10.MToon10.Runtime.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-511eb8721740b4938b6dbd121e07c8ae
+# Starting compiling VRMShaders.GLTF.IO.Tests.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f9dc55458f1d8486f90ed9edefc833ef
+# Starting compiling VRM.Samples.Editor.Tests.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-768898e8b3ea849448e6e8f6d4e07c28
+# Starting compiling VRMShaders.VRM10.MToon10.Tests.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ceedd7210fb3d416682e28bc87efae19
+# Starting compiling com.unity.cinemachine.editor.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-acbb716166ce74cb4a6de6475cad641a
+# Starting compiling VRMShaders.VRM10.MToon10.Editor.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-80fabc04b7d394fcab3d1b06367fab40
+# Starting compiling Assembly-CSharp.dll
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a468a05bd60444041a8535cfb2dff1fc

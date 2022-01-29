@@ -50,6 +50,7 @@
      <Compile Include="Assets\V_VRoid Model\UniGLTF\Samples\UniHumanoid\RuntimeBvhLoader.cs" />
      <Compile Include="Assets\B_Scripts\HoldTorch.cs" />
      <Compile Include="Assets\E_Store\Standard Assets\Environment\Water\Water\Scripts\Displace.cs" />
+     <Compile Include="Assets\B_Scripts\CollectFire.cs" />
      <Compile Include="Assets\E_Store\Standard Assets\Environment\Water\Water\Scripts\PlanarReflection.cs" />
      <Compile Include="Assets\E_Store\Standard Assets\Environment\Water (Basic)\Scripts\WaterBasic.cs" />
      <Compile Include="Assets\E_Store\Standard Assets\Environment\Water\Water\Scripts\WaterTile.cs" />
