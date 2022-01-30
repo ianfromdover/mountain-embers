@@ -27,7 +27,8 @@ Collect small embers to light your campfire among cold, dark mountains.
 7. Go back to the Package Manager panel, and in the top left, change the drop-down menu to `Packages: Unity Registry`. 
 8. Scroll down to find `Terrain Tools` and install, along with the other packages listed above.  
 ![Package Manager](./pictures/3.png)
-10. You can now open the assignment project.
+10. You can now open the assignment project by double clicking its scene.
+11. If there is a GUI problem, create a new project in unity and open it before opening this project.
 
 ## Playing Instructions
 1. Use `WASD` to move the character, and control the camera with the mouse. Press `Shift` to move faster. You start at the center of the map, at the campfire.
