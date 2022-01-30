@@ -30,8 +30,8 @@ Collect small embers to light your campfire among cold, dark mountains.
 10. You can now open the assignment project.
 
 ## Playing Instructions
-1. Use `WASD` to move the character, and control the camera with the mouse. Press `Shift` to move faster. (to be implemented) You start at the center of the map, at the campfire.
-2. WARNING: The forward direction does not change with the camera angle. Use the character to orient yourself to figure out which way is forward
+1. Use `WASD` to move the character, and control the camera with the mouse. Press `Shift` to move faster. You start at the center of the map, at the campfire.
+2. The character does not align with the camera angle but the controls are. Forward means forward from the camera, not global forward.
 3. There are `6` fires placed around the map. Bring them to your campfire to make it grow bigger. You can only hold one at a time.
 4. Each fire is visible from the location of each other fire. Just follow the paths on the ground to get to them.
 
