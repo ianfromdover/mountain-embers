@@ -6,6 +6,7 @@ public class CollectFire : MonoBehaviour
 {
     public GameObject holdingTorch;
     public GameObject campfire;
+    public GameObject congrats;
     public GameObject[] torchesAtCampfire;
     private static int maxTorches = 6;
     private static int noOfTorches = 0;
@@ -31,8 +32,9 @@ public class CollectFire : MonoBehaviour
                 torchesAtCampfire[noOfTorches].SetActive(true);
                 noOfTorches++;
                 torchesLeft--; // to update UI
+            } else if (torchesLeft == 0) {
+                congrats.SetActive(true);
             }
-            // UI make targeting reticle
         }
     }
 }
