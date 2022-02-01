@@ -1,0 +1,80 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/base/Desktop/y2s2/cs4240/labs/asgn1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51554
+Successfully changed project path to: /Users/base/Desktop/y2s2/cs4240/labs/asgn1
+/Users/base/Desktop/y2s2/cs4240/labs/asgn1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 79.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/base/Desktop/y2s2/cs4240/labs/asgn1/Assets
+GfxDevice: creating device client; threaded=0
+2022-02-01 10:33:28.767 Unity[55747:2023517] Color LCD preferred device: Intel HD Graphics 4000 (low power)
+2022-02-01 10:33:28.767 Unity[55747:2023517] Metal devices available: 1
+2022-02-01 10:33:28.767 Unity[55747:2023517] 0: Intel HD Graphics 4000 (low power)
+2022-02-01 10:33:28.768 Unity[55747:2023517] Using device Intel HD Graphics 4000 (low power)
+Initializing Metal device caps: Intel HD Graphics 4000
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56747
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000761 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 62.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.346 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000862 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 62.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.195 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1938 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 204.0 MB.
+System memory in use after: 203.9 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2421.
+Total: 4.597676 ms (FindLiveObjects: 0.441558 ms CreateObjectMapping: 0.221266 ms MarkObjects: 3.425048 ms  DeleteObjects: 0.505043 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/B_Scripts/HoldTorch.cs
+  artifactKey: Guid(cfaeea250b5bcd74fa14d7433d401f3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/B_Scripts/HoldTorch.cs using Guid(cfaeea250b5bcd74fa14d7433d401f3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1f4eed3508f5beeb8d8191f6a890f9c') in 0.572375 seconds
+  Import took 0.577289 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
