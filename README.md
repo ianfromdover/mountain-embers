@@ -60,6 +60,12 @@ First ever environment design project in Unity 3D.
 - Avatar was designed in [VRoid Studio][7]
 - Fire was original, learnt from [CGHOW][8] and [Sirhaian'Arts][9] on Youtube
 
+## Future Plans
+- Incorporate Git LFS
+- View the world from the avatar's eyes using a VR headset and XR Interaction Toolkit from Unity
+- Use the toolkit to map controllers to the player's hand models
+- Implement the walking locomotion using the joystick
+
 [1]: https://assetstore.unity.com/packages/3d/props/shed-tools-bridge-and-fences-104216
 [2]: https://assetstore.unity.com/packages/2d/textures-materials/sky/stellar-sky-99558
 [3]: https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808
