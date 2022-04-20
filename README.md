@@ -23,22 +23,22 @@ First ever environment design project in Unity 3D.
 2. Open the Package Manager panel.
 3. Click on the settings icon(gear) at the top right corner near the window's searchbar.  
 4. Select `Advanced Project Settings`, which opens a new window
-![Package Manager](./pictures/1.png)
+![Package Manager](./Docs/1.png)
 5. Tick the checkbox under `Package Manager section > Advanced Settings box > Enable Preview Packages`.  
-![Package Manager](./pictures/2.png)
+![Package Manager](./Docs/2.png)
 7. Go back to the Package Manager panel, and in the top left, change the drop-down menu to `Packages: Unity Registry`. 
 8. Scroll down to find `Terrain Tools` and install, along with the other packages listed above.  
-![Package Manager](./pictures/3.png)
+![Package Manager](./Docs/3.png)
 10. You can now open the assignment project by double clicking its scene.
 11. If there is a GUI problem, create a new project in unity and open it before opening this project.
 
 
 ## If avatar is pink or invisible on import
-![Pink Avatar](./pictures/4.png)  
+![Pink Avatar](./Docs/4.png)  
 1. In the Hierarchy, expand the `Player Model`
-![Source](./pictures/5.png)  
+![Source](./Docs/5.png)  
 2. For the Body and Face objects, the `Skinned Mesh Renderer > Mesh` and `Material`s are missing. Drag them from the Project files into their slots. Searching for them is easier than navigating to them.
-![Files in structure](./pictures/6.png)  
+![Files in structure](./Docs/6.png)  
 3. These are the corresponding folders. After applying the mesh and material, the problem is fixed. If you meet anymore problems, do not hesitate to contact Ian at ianhong@u.nus.edu
 
 ## Playing Instructions
