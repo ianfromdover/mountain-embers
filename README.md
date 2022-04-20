@@ -50,7 +50,7 @@ First ever environment design project in Unity 3D.
 4. Each fire is visible from the location of each other fire. Just follow the paths on the ground to get to them.
 5. Once you have finished, an achievement will be displayed.
 
-![Completed the game](./Docs/win.png)
+![Completed the game](./Docs/win.jpg)
 
 ## Assets Used
 - Bridge and planks from [Shed, Tools, Bridge and Fences][1] by Quite Vibrant
