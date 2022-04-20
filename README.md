@@ -3,6 +3,8 @@ CS4240 Interaction Design for AR and VR Assignment 1
 Collect small embers to light your campfire among cold, dark mountains.  
 First ever environment design project in Unity 3D.
 
+![Cover Image](./Docs/cover.png)
+
 ## Unity Version
 
 - 2020.2.1f1
@@ -48,6 +50,8 @@ First ever environment design project in Unity 3D.
 4. Each fire is visible from the location of each other fire. Just follow the paths on the ground to get to them.
 5. Once you have finished, an achievement will be displayed.
 
+![Completed the game](./Docs/win.png)
+
 ## Assets Used
 - Bridge and planks from [Shed, Tools, Bridge and Fences][1] by Quite Vibrant
 - Skybox from [Stellar Sky][2] by Satsuru
@@ -61,10 +65,10 @@ First ever environment design project in Unity 3D.
 - Fire was original, learnt from [CGHOW][8] and [Sirhaian'Arts][9] on Youtube
 
 ## Future Plans
-- Incorporate Git LFS
-- View the world from the avatar's eyes using a VR headset and XR Interaction Toolkit from Unity
-- Use the toolkit to map controllers to the player's hand models
-- Implement the walking locomotion using the joystick
+- [ ] Incorporate Git LFS
+- [ ] Convert the world to a VRChat world using the worlds SDK
+- [ ] Fix the torch lerp functionality and conceptualise how multiple players will interact with the map 
+- [ ] Publish the world to VRChat public for many to enjoy!
 
 [1]: https://assetstore.unity.com/packages/3d/props/shed-tools-bridge-and-fences-104216
 [2]: https://assetstore.unity.com/packages/2d/textures-materials/sky/stellar-sky-99558
@@ -75,3 +79,4 @@ First ever environment design project in Unity 3D.
 [7]: https://vroid.com/en/studio
 [8]: https://www.youtube.com/watch?v=AoYCliRCQhs
 [9]: https://www.youtube.com/watch?v=5Mw6NpSEb2o
+

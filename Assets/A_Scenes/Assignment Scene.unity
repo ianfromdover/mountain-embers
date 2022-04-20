@@ -45719,8 +45719,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1012061388}
-  m_LocalRotation: {x: 0.0022857077, y: -0.99443483, z: 0.02207038, w: 0.102990486}
-  m_LocalPosition: {x: 167.5936, y: -3.1007462, z: 192.45065}
+  m_LocalRotation: {x: -0.073106244, y: 0.09410381, z: 0.006927764, w: 0.9928504}
+  m_LocalPosition: {x: 165.31479, y: 0.43876266, z: 188.36487}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -55575,6 +55575,10 @@ PrefabInstance:
     - target: {fileID: 4038144667243803193, guid: 0cf924c145288458fa9dbce3b1e39e5d, type: 3}
       propertyPath: m_Name
       value: World Wall (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4038144667243803193, guid: 0cf924c145288458fa9dbce3b1e39e5d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4433938854928369782, guid: 0cf924c145288458fa9dbce3b1e39e5d, type: 3}
       propertyPath: m_RootOrder
@@ -65564,6 +65568,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: World Wall (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4038144667243803193, guid: 0cf924c145288458fa9dbce3b1e39e5d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4433938854928369782, guid: 0cf924c145288458fa9dbce3b1e39e5d, type: 3}
       propertyPath: m_RootOrder
       value: 23
@@ -65676,7 +65684,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1426709511}
-  m_LocalRotation: {x: 0.15803704, y: 0.41308036, z: -0.07303063, w: 0.893899}
+  m_LocalRotation: {x: 0.15803704, y: 0.4130804, z: -0.073030636, w: 0.893899}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -121064,7 +121072,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b678c1df50cfb547990db24a32856da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BlendShapeAvatar: {fileID: 11400000, guid: 3c95e3c0b21884811ab7659589167781, type: 2}
+  BlendShapeAvatar: {fileID: 0}
 --- !u!1 &723988727712151300
 GameObject:
   m_ObjectHideFlags: 0
@@ -163676,7 +163684,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 690ea0146224b8b4694a1925dddeb352, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Meta: {fileID: 11400000, guid: 91abeaaabf95b4ca9bf1bc401c4e475e, type: 2}
+  Meta: {fileID: 0}
 --- !u!4 &6031030174668723002
 Transform:
   m_ObjectHideFlags: 0
@@ -164472,8 +164480,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3869812175467a143ab9cd865752b4a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Avatar: {fileID: 9000000, guid: ec9cfabb7576b4bb59f3c22a792be012, type: 2}
-  Description: {fileID: 11400000, guid: 1c2c966f90d4943cbaac3133c4ee4dc7, type: 2}
+  Avatar: {fileID: 0}
+  Description: {fileID: 0}
 --- !u!1 &7277239597416668443
 GameObject:
   m_ObjectHideFlags: 0
@@ -164499,7 +164507,7 @@ Animator:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8316181093568051830}
   m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: ec9cfabb7576b4bb59f3c22a792be012, type: 2}
+  m_Avatar: {fileID: 0}
   m_Controller: {fileID: 0}
   m_CullingMode: 0
   m_UpdateMode: 0
