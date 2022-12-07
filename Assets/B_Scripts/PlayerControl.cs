@@ -2,6 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+ * Allows the player to move their avatar using the arrow keys, and to look around using the mouse.
+ */
 public class PlayerControl : MonoBehaviour
 {
     /**
