@@ -1,4 +1,7 @@
 # Mountain Embers
+
+TERRAIN ASSET MISSING AFTER VRCHAT IMPORT
+
 CS4240 Interaction Design for AR and VR Assignment 1  
 Collect small embers to light your campfire among cold, dark mountains.  
 First ever environment design project in Unity 3D.
